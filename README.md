@@ -16,7 +16,7 @@ Este repositorio contiene ejercicios prácticos de C++ organizados en cinco carp
   - `CodigoAreaTriangulo.cpp`: Archivo de código correspondiente.
   - `Diagrama Area de un Triangulo.png`: Diagrama de flujo asociado.
   
-- ** Raíz cuadrada de un número/**: Ejercicios de la decimotercera práctica de C++.
+- **Raíz cuadrada de un número/**: Ejercicios de la decimotercera práctica de C++.
   - `CodigoRaizCuadrada.cpp`: Archivo de código correspondiente.
   - `Diagrama Raiz Cuadrada de un Numero.png`: Diagrama de flujo asociado.
   
